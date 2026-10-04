@@ -1,84 +1,182 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:238636&text=Luiz%20Cezar&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Marketing%20%E2%80%A2%20Educa%C3%A7%C3%A3o&descAlignY=58&descSize=17" alt="Luiz Cezar" />
+# Luiz Cezar
 
-[![GitHub](https://img.shields.io/badge/GitHub-@luixcezar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luixcezar)
+**Web designer e desenvolvedor em Curitiba.**
 
-</div>
+Crio sites, landing pages, lojas virtuais e experiências digitais — do planejamento ao código.
 
-## 👋 Sobre mim
-
-Sou **Luiz Cezar**, apaixonado por tecnologia, criação digital e comunicação.
-
-Crio **sites, interfaces e experiências digitais**, trabalhando com desenvolvimento web e projetos que unem código, design e estratégia. Também atuo com **marketing e educação em tecnologia**, o que me permite enxergar cada projeto tanto pela parte técnica quanto pela experiência de quem vai usar.
-
-```txt
-💻 Desenvolvimento Web
-🎨 Interfaces e experiências digitais
-📈 Marketing e presença digital
-🎓 Educação em tecnologia
-🚀 Projetos práticos, funcionais e bem apresentados
-```
-
-## 🧰 Tecnologias
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![Portfólio](https://img.shields.io/badge/VER_PORTFÓLIO-oluizcezar.online-111111?style=for-the-badge)](https://www.oluizcezar.online)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@o.luizcezar-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/o.luizcezar)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-FALAR_COMIGO-111111?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541991512510)
 
 </div>
 
-## 🚀 Projetos em destaque
+## O que eu faço
+
+Trabalho com criação de sites e estratégia digital há mais de **8 anos**. Cuido da estrutura, do design e do desenvolvimento para transformar o que uma empresa faz em uma presença digital clara, profissional e fácil de usar.
+
+Meu trabalho passa por **sites institucionais, landing pages, lojas virtuais, e-commerce, portfólios e web apps**. O portfólio abaixo reúne **24 projetos** de diferentes segmentos.
+
+**Stack:** React · TypeScript · JavaScript · HTML · CSS · Vite · Vercel
+
+## 24 projetos selecionados
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>☕ Café do Luiz</h3>
-<p>Experiência visual para uma marca de cafés especiais, com uma identidade forte e apresentação editorial.</p>
-<a href="https://github.com/luixcezar/cafedoluiz"><b>Ver repositório →</b></a>
+<h3>01 — Prestige / FORMA</h3>
+<p>Loja editorial de moda com catálogo, páginas de produto e carrinho em uma experiência minimalista.</p>
+<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
 </td>
 <td width="50%" valign="top">
-<h3>🧠 Quiz Luiz</h3>
-<p>Quiz interativo construído com HTML, CSS e JavaScript, combinando conteúdo, lógica e interface.</p>
-<a href="https://github.com/luixcezar/quizluiz"><b>Ver repositório →</b></a>
+<h3>02 — Ultimate / VANTA</h3>
+<p>Loja de streetwear com entrada imersiva, catálogo, produto e carrinho em uma linguagem visual escura.</p>
+<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>⚡ Donalds</h3>
-<p>Projeto web moderno desenvolvido com Next.js e TypeScript.</p>
-<a href="https://github.com/luixcezar/donalds"><b>Ver repositório →</b></a>
+<td valign="top">
+<h3>03 — Crack</h3>
+<p>Loja experimental com drops, coleções e editorial inspirado em música, rua e cultura independente.</p>
+<a href="https://crackstore.vercel.app/"><b>Abrir projeto →</b></a>
 </td>
-<td width="50%" valign="top">
-<h3>🍎 Teste Apple</h3>
-<p>Projeto front-end com HTML, CSS e JavaScript voltado à criação e experimentação de interfaces.</p>
-<a href="https://github.com/luixcezar/testeapple"><b>Ver repositório →</b></a>
+<td valign="top">
+<h3>04 — Dentrio</h3>
+<p>Landing page para uma plataforma de gestão odontológica, com apresentação do produto e agendamento de demonstração.</p>
+<a href="https://dentrio.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>05 — Cabus Pet</h3>
+<p>Site para apresentar serviços de pet shop e facilitar o agendamento de consultas, banho e tosa.</p>
+<a href="https://cabuspet.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>06 — Olívia & Daniel</h3>
+<p>Convite digital com história do casal, programação, informações para convidados e confirmação de presença.</p>
+<a href="https://www.oluizcezar.online/#projetos"><b>Abrir projeto →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>07 — Casa Nôma</h3>
+<p>Experiência digital para apresentar cozinha, ambiente e cardápio e transformar visitas em reservas.</p>
+<a href="https://casanoma.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>08 — Amrit Palace</h3>
+<p>Site editorial para apresentar a tradição da casa, o cardápio, eventos e reservas.</p>
+<a href="https://amritpalace.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>09 — First Choice Law</h3>
+<p>Site institucional bilíngue para apresentar equipe, áreas de atuação, resultados e facilitar o primeiro contato.</p>
+<a href="https://firstchoicelaw.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>10 — Happy</h3>
+<p>Experiência digital para apresentar cardápio, identidade da marca e facilitar pedidos.</p>
+<a href="https://hamburguerhappy.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>11 — Amici</h3>
+<p>Site editorial para apresentar gastronomia, unidades e transformar visitas em reservas.</p>
+<a href="https://amici-nu.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>12 — Casa Maria</h3>
+<p>Identidade digital com linguagem editorial para apresentar a casa, o cardápio e receber reservas.</p>
+<a href="https://odemaria.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>13 — Meguro Café</h3>
+<p>Site editorial com cardápio, horários e a atmosfera da casa apresentados de forma direta.</p>
+<a href="https://megurocafe.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>14 — Forneria</h3>
+<p>Site para pizzaria artesanal com cardápio, reservas e apresentação direta dos produtos.</p>
+<a href="https://apizzaria.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>15 — Essenza</h3>
+<p>Site para clínica de estética com tratamentos, especialistas e agendamento direto pelo WhatsApp.</p>
+<a href="https://esteticacwb.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>16 — Luz e Câmera</h3>
+<p>Portfólio audiovisual para apresentar ensaios e filmes com foco nas imagens e nas histórias de cada casal.</p>
+<a href="https://luzecamera.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>17 — Motel Caribe</h3>
+<p>Apresentação das suítes, diferenciais e canais de reserva em uma navegação simples.</p>
+<a href="https://motelcaribe.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>18 — Ilana Santiago</h3>
+<p>Portfólio de arquitetura com foco nos projetos, no repertório e na apresentação do escritório.</p>
+<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>19 — FNS Cups</h3>
+<p>Loja online com catálogo organizado e uma jornada de compra simples, do produto ao checkout.</p>
+<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
+</td>
+<td valign="top">
+<h3>20 — GT Capital</h3>
+<p>Site institucional para apresentar a empresa, os serviços e facilitar novos contatos.</p>
+<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>21 — Luiz Apple</h3>
+<p>Catálogo de produtos Apple com condições de compra e atendimento direto pelo WhatsApp.</p>
+<a href="https://www.luiziphones.shop/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>22 — Mysa Atelier</h3>
+<p>Site para apresentar serviços, diferenciais e transformar o interesse em agendamentos.</p>
+<a href="https://mysahair.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>23 — Swadisht</h3>
+<p>Site de restaurante com apresentação da casa, cardápio e acesso rápido às reservas.</p>
+<a href="https://swadishtcuisine.vercel.app/"><b>Abrir projeto →</b></a>
+</td>
+<td valign="top">
+<h3>24 — Soberbo</h3>
+<p>Site institucional para destacar gastronomia, ambientes, eventos e os canais de reserva da casa.</p>
+<a href="https://soberbo.vercel.app/"><b>Abrir projeto →</b></a>
 </td>
 </tr>
 </table>
 
-## 📊 GitHub
+## Quer ver o trabalho completo?
+
+O GitHub fica como meu perfil técnico. Os projetos e cases públicos ficam no meu portfólio, com apresentação visual e links para as experiências publicadas.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luixcezar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixcezar&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
+### [oluizcezar.online →](https://www.oluizcezar.online)
 
-</div>
-
----
-
-<div align="center">
-
-### Construindo uma ideia de cada vez. 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:238636,55:161B22,100:0D1117" alt="Footer" />
+Curitiba · Paraná · Projetos para todo o Brasil
 
 </div>
