@@ -1,182 +1,202 @@
 <div align="center">
 
-# Luiz Cezar
+<img src="./assets/terminal-header.svg" width="100%" alt="Luiz Cezar — Web Designer e Desenvolvedor" />
 
-**Web designer e desenvolvedor em Curitiba.**
-
-Crio sites, landing pages, lojas virtuais e experiências digitais — do planejamento ao código.
-
-[![Portfólio](https://img.shields.io/badge/VER_PORTFÓLIO-oluizcezar.online-111111?style=for-the-badge)](https://www.oluizcezar.online)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@o.luizcezar-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/o.luizcezar)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-FALAR_COMIGO-111111?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541991512510)
+[![PORTFOLIO](https://img.shields.io/badge/%3E__PORTFOLIO-oluizcezar.online-39d353?style=flat-square&labelColor=07090d)](https://www.oluizcezar.online)
+[![INSTAGRAM](https://img.shields.io/badge/%3E__INSTAGRAM-@o.luizcezar-f0f6fc?style=flat-square&labelColor=07090d&logo=instagram&logoColor=f0f6fc)](https://instagram.com/o.luizcezar)
+[![WHATSAPP](https://img.shields.io/badge/%3E__WHATSAPP-falar_comigo-f0f6fc?style=flat-square&labelColor=07090d&logo=whatsapp&logoColor=39d353)](https://wa.me/5541991512510)
 
 </div>
 
-## O que eu faço
+```text
+┌─[ luiz@github ]─[ ~/about ]
+└──╼ $ cat profile.txt
 
-Trabalho com criação de sites e estratégia digital há mais de **8 anos**. Cuido da estrutura, do design e do desenvolvimento para transformar o que uma empresa faz em uma presença digital clara, profissional e fácil de usar.
+WEB DESIGNER + DEVELOPER
+8+ anos criando experiências digitais.
+Sites · Landing Pages · E-commerce · Portfólios · Web Apps
+Curitiba / PR — projetos para todo o Brasil.
+```
 
-Meu trabalho passa por **sites institucionais, landing pages, lojas virtuais, e-commerce, portfólios e web apps**. O portfólio abaixo reúne **24 projetos** de diferentes segmentos.
+### `>_ ./what-i-do`
 
-**Stack:** React · TypeScript · JavaScript · HTML · CSS · Vite · Vercel
+Eu organizo a mensagem, desenho a experiência e desenvolvo o projeto. Do primeiro wireframe ao site no ar.
 
-## 24 projetos selecionados
+Meu trabalho une **design, desenvolvimento e estratégia digital** para transformar negócios em experiências claras, rápidas e fáceis de usar.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 — Prestige / FORMA</h3>
-<p>Loja editorial de moda com catálogo, páginas de produto e carrinho em uma experiência minimalista.</p>
-<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>02 — Ultimate / VANTA</h3>
-<p>Loja de streetwear com entrada imersiva, catálogo, produto e carrinho em uma linguagem visual escura.</p>
-<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>03 — Crack</h3>
-<p>Loja experimental com drops, coleções e editorial inspirado em música, rua e cultura independente.</p>
-<a href="https://crackstore.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>04 — Dentrio</h3>
-<p>Landing page para uma plataforma de gestão odontológica, com apresentação do produto e agendamento de demonstração.</p>
-<a href="https://dentrio.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>05 — Cabus Pet</h3>
-<p>Site para apresentar serviços de pet shop e facilitar o agendamento de consultas, banho e tosa.</p>
-<a href="https://cabuspet.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>06 — Olívia & Daniel</h3>
-<p>Convite digital com história do casal, programação, informações para convidados e confirmação de presença.</p>
-<a href="https://www.oluizcezar.online/#projetos"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>07 — Casa Nôma</h3>
-<p>Experiência digital para apresentar cozinha, ambiente e cardápio e transformar visitas em reservas.</p>
-<a href="https://casanoma.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>08 — Amrit Palace</h3>
-<p>Site editorial para apresentar a tradição da casa, o cardápio, eventos e reservas.</p>
-<a href="https://amritpalace.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>09 — First Choice Law</h3>
-<p>Site institucional bilíngue para apresentar equipe, áreas de atuação, resultados e facilitar o primeiro contato.</p>
-<a href="https://firstchoicelaw.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>10 — Happy</h3>
-<p>Experiência digital para apresentar cardápio, identidade da marca e facilitar pedidos.</p>
-<a href="https://hamburguerhappy.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>11 — Amici</h3>
-<p>Site editorial para apresentar gastronomia, unidades e transformar visitas em reservas.</p>
-<a href="https://amici-nu.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>12 — Casa Maria</h3>
-<p>Identidade digital com linguagem editorial para apresentar a casa, o cardápio e receber reservas.</p>
-<a href="https://odemaria.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>13 — Meguro Café</h3>
-<p>Site editorial com cardápio, horários e a atmosfera da casa apresentados de forma direta.</p>
-<a href="https://megurocafe.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>14 — Forneria</h3>
-<p>Site para pizzaria artesanal com cardápio, reservas e apresentação direta dos produtos.</p>
-<a href="https://apizzaria.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>15 — Essenza</h3>
-<p>Site para clínica de estética com tratamentos, especialistas e agendamento direto pelo WhatsApp.</p>
-<a href="https://esteticacwb.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>16 — Luz e Câmera</h3>
-<p>Portfólio audiovisual para apresentar ensaios e filmes com foco nas imagens e nas histórias de cada casal.</p>
-<a href="https://luzecamera.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>17 — Motel Caribe</h3>
-<p>Apresentação das suítes, diferenciais e canais de reserva em uma navegação simples.</p>
-<a href="https://motelcaribe.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>18 — Ilana Santiago</h3>
-<p>Portfólio de arquitetura com foco nos projetos, no repertório e na apresentação do escritório.</p>
-<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>19 — FNS Cups</h3>
-<p>Loja online com catálogo organizado e uma jornada de compra simples, do produto ao checkout.</p>
-<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
-</td>
-<td valign="top">
-<h3>20 — GT Capital</h3>
-<p>Site institucional para apresentar a empresa, os serviços e facilitar novos contatos.</p>
-<a href="https://www.oluizcezar.online/#projetos"><b>Ver no portfólio →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>21 — Luiz Apple</h3>
-<p>Catálogo de produtos Apple com condições de compra e atendimento direto pelo WhatsApp.</p>
-<a href="https://www.luiziphones.shop/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>22 — Mysa Atelier</h3>
-<p>Site para apresentar serviços, diferenciais e transformar o interesse em agendamentos.</p>
-<a href="https://mysahair.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3>23 — Swadisht</h3>
-<p>Site de restaurante com apresentação da casa, cardápio e acesso rápido às reservas.</p>
-<a href="https://swadishtcuisine.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-<td valign="top">
-<h3>24 — Soberbo</h3>
-<p>Site institucional para destacar gastronomia, ambientes, eventos e os canais de reserva da casa.</p>
-<a href="https://soberbo.vercel.app/"><b>Abrir projeto →</b></a>
-</td>
-</tr>
-</table>
+```text
+[ STACK ]
+React ............ UI
+TypeScript ....... CODE
+JavaScript ....... WEB
+HTML / CSS ....... FRONTEND
+Vite ............. BUILD
+Vercel ........... DEPLOY
+```
 
-## Quer ver o trabalho completo?
+### `>_ ls ./selected-work --all`
 
-O GitHub fica como meu perfil técnico. Os projetos e cases públicos ficam no meu portfólio, com apresentação visual e links para as experiências publicadas.
+```text
+24 PROJECTS FOUND
+STATUS: PUBLIC SHOWCASE
+SOURCE: oluizcezar.online
+```
+
+**`01`** `//` **Prestige / FORMA**<br>
+Loja editorial de moda com catálogo, páginas de produto e carrinho em uma experiência minimalista.<br>
+[`[PORTFOLIO]`](https://www.oluizcezar.online/#projetos)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`02`** `//` **Ultimate / VANTA**<br>
+Loja de streetwear com entrada imersiva, catálogo, produto e carrinho em uma linguagem visual escura.<br>
+[`[PORTFOLIO]`](https://www.oluizcezar.online/#projetos)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`03`** `//` **Crack**<br>
+Loja experimental com drops, coleções e editorial inspirado em música, rua e cultura independente.<br>
+[`[OPEN]`](https://crackstore.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`04`** `//` **Dentrio**<br>
+Landing page para uma plataforma de gestão odontológica, com apresentação do produto e agendamento de demonstração.<br>
+[`[OPEN]`](https://dentrio.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`05`** `//` **Cabus Pet**<br>
+Site para apresentar serviços de pet shop e facilitar o agendamento de consultas, banho e tosa.<br>
+[`[OPEN]`](https://cabuspet.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`06`** `//` **Olívia & Daniel**<br>
+Convite digital com história do casal, programação, informações para convidados e confirmação de presença.<br>
+[`[PORTFOLIO]`](https://www.oluizcezar.online/#projetos)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`07`** `//` **Casa Nôma**<br>
+Experiência digital para apresentar cozinha, ambiente e cardápio e transformar visitas em reservas.<br>
+[`[OPEN]`](https://casanoma.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`08`** `//` **Amrit Palace**<br>
+Site editorial para apresentar a tradição da casa, o cardápio, eventos e reservas.<br>
+[`[OPEN]`](https://amritpalace.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`09`** `//` **First Choice Law**<br>
+Site institucional bilíngue para apresentar equipe, áreas de atuação, resultados e facilitar o primeiro contato.<br>
+[`[OPEN]`](https://firstchoicelaw.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`10`** `//` **Happy**<br>
+Experiência digital para apresentar cardápio, identidade da marca e facilitar pedidos.<br>
+[`[OPEN]`](https://hamburguerhappy.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`11`** `//` **Amici**<br>
+Site editorial para apresentar gastronomia, unidades e transformar visitas em reservas.<br>
+[`[OPEN]`](https://amici-nu.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`12`** `//` **Casa Maria**<br>
+Identidade digital com linguagem editorial para apresentar a casa, o cardápio e receber reservas.<br>
+[`[OPEN]`](https://odemaria.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`13`** `//` **Meguro Café**<br>
+Site editorial com cardápio, horários e a atmosfera da casa apresentados de forma direta.<br>
+[`[OPEN]`](https://megurocafe.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`14`** `//` **Forneria**<br>
+Site para pizzaria artesanal com cardápio, reservas e apresentação direta dos produtos.<br>
+[`[OPEN]`](https://apizzaria.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`15`** `//` **Essenza**<br>
+Site para clínica de estética com tratamentos, especialistas e agendamento direto pelo WhatsApp.<br>
+[`[OPEN]`](https://esteticacwb.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`16`** `//` **Luz e Câmera**<br>
+Portfólio audiovisual para apresentar ensaios e filmes com foco nas imagens e nas histórias de cada casal.<br>
+[`[OPEN]`](https://luzecamera.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`17`** `//` **Motel Caribe**<br>
+Apresentação das suítes, diferenciais e canais de reserva em uma navegação simples.<br>
+[`[OPEN]`](https://motelcaribe.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`18`** `//` **Ilana Santiago**<br>
+Portfólio de arquitetura com foco nos projetos, no repertório e na apresentação do escritório.<br>
+[`[PORTFOLIO]`](https://www.oluizcezar.online/#projetos)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`19`** `//` **FNS Cups**<br>
+Loja online com catálogo organizado e uma jornada de compra simples, do produto ao checkout.<br>
+[`[PORTFOLIO]`](https://www.oluizcezar.online/#projetos)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`20`** `//` **GT Capital**<br>
+Site institucional para apresentar a empresa, os serviços e facilitar novos contatos.<br>
+[`[PORTFOLIO]`](https://www.oluizcezar.online/#projetos)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`21`** `//` **Luiz Apple**<br>
+Catálogo de produtos Apple com condições de compra e atendimento direto pelo WhatsApp.<br>
+[`[OPEN]`](https://www.luiziphones.shop/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`22`** `//` **Mysa Atelier**<br>
+Site para apresentar serviços, diferenciais e transformar o interesse em agendamentos.<br>
+[`[OPEN]`](https://mysahair.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`23`** `//` **Swadisht**<br>
+Site de restaurante com apresentação da casa, cardápio e acesso rápido às reservas.<br>
+[`[OPEN]`](https://swadishtcuisine.vercel.app/)
+
+`────────────────────────────────────────────────────────────────────────────`
+
+**`24`** `//` **Soberbo**<br>
+Site institucional para destacar gastronomia, ambientes, eventos e os canais de reserva da casa.<br>
+[`[OPEN]`](https://soberbo.vercel.app/)
+
+### `>_ ./portfolio --open`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ Os repositórios de projeto são privados.             │
+│ O trabalho público vive no portfólio e nos sites.    │
+└──────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-### [oluizcezar.online →](https://www.oluizcezar.online)
+## [oluizcezar.online ↗](https://www.oluizcezar.online)
 
-Curitiba · Paraná · Projetos para todo o Brasil
+`design / code / strategy / web`
 
 </div>
